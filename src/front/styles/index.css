@@ -1,3 +1,8 @@
-/* 
-    General Styles used on every website (Don't Repeat Yourself)
-*/
+.container2{
+    background-color: rgba(232, 211, 233, 0.582);
+    border: 6px solid #904481 !important;
+    border-radius: 10px !important;
+    padding: 30px !important;
+    margin-top: 20px;
+    box-shadow: 5px 10px 5px rgb(164, 163, 163) !important;
+}
